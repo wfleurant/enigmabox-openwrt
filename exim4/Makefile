@@ -5,7 +5,7 @@ PKG_VERSION:=4.82.1
 PKG_RELEASE:=1
 
 PKG_SOURCE:=exim-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=http://mirror.switch.ch/ftp/mirror/exim/exim/exim4/
+PKG_SOURCE_URL:=ftp://ftp.exim.org/pub/exim/exim4/old/
 PKG_MD5SUM:=a64866658f088c993a464d8cd55d68b9
 
 PKG_BUILD_DIR:=$(BUILD_DIR)/exim-$(PKG_VERSION)
